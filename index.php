@@ -119,17 +119,17 @@
             <h1>Contact Us</h1>
                     <p>
                         <img src="img/call.png" width="40px" height="40px" alt="" > <br>
-                        <span><a  class="linkedit"href="Tel:+2349083575587">Call: +234 908 357 5587</a></span> <br>
+                        <span><a  class="linkedit"href="Tel:+234 900 0000 000">Call: +234 900 0000 000</a></span> <br>
                         <span><b>Monday - Friday (9am - 5pm)</b></span>
                     </p>
                     <p>
                         <img src="img/mail.png" width="40px" height="50px" alt="" > <br>
-                    <span><a class="linkedit" href="mailto:Email: opeyemi.sanni180591052@st.lasu.edu.ng">Email: opeyemi.sanni180591052@st.lasu.edu.ng</a></span> <br>
+                    <span><a class="linkedit" href="mailto:Email: johndoe@gmail.com">Email: johndoe@gmail.com</a></span> <br>
                     </p>
                 </p>
                 <p>
                     <img src="img/location.png" width="40px" height="40px" alt="" > <br>
-                <span><a class="linkedit">Location: 4, Abagbon Close, Vitoria Island, Lagos, Nigeria</a></span> <br>
+                <span><a class="linkedit">Location: 4, Vitoria Island, Lagos, Nigeria</a></span> <br>
                 </p>
         </div>
 

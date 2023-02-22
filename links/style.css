@@ -1,0 +1,337 @@
+/* body{
+    background-color: white;
+} */
+/*navbar*/
+/* .myproject{
+    position: relative;
+} */
+
+/*Nav bar color*/
+/* .nav-col{
+    background-color: rgb(235, 235, 180);
+    background-image: linear-gradient(rgb(55, 235, 52), white,  rgb(207, 236, 227));
+} */
+.red{
+    color: red;
+}
+/* Header text*/
+/* .myproject b{
+   position: absolute;
+   word-spacing: 2px;
+   letter-spacing: 1px;
+   margin: auto;
+   font-size: 30px;
+   padding-top: 0px;
+   margin-left: 20px;
+   top: 10px;
+} */
+/* @media (max-width:900px) {
+    .myproject b{
+        top: 30px;
+    }
+    
+} */
+/* input{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+} */
+/*main content*/
+/* .contents{
+    margin-top: 80px;
+} */
+
+.b{  /*make texts bold*/
+    font-weight: 700; 
+}
+.leg{
+    /* border: 4px gold solid; */
+   padding: 2% 2% 7% 2%;
+}
+/* Chrome, Safari, Edge, Opera /. remove the number arrow */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* .select{
+    width: 50%;
+    text-align: center;
+    text-overflow: inherit;
+    text-transform: lowercase;
+} */
+/* .flexit :nth-child(3){
+    background-color: rgb(100, 165, 100);
+    width: 50%;
+    box-sizing: content-box;
+}
+.flexit :nth-child(1){
+    background-color: rgb(115, 115, 189);
+    width: 50%;
+    box-sizing: content-box;
+} */
+/* .leg a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-size: 3vw;
+}
+.leg a:hover{
+    color: red;
+    background-color: black;
+}
+.bars{
+        width: 100%;
+        margin: auto;
+    }
+    .navbar-brand b{
+        font-size: 3vw;
+    } */
+
+/* .legs{
+    border: none;
+    border-radius: 5%;
+}
+
+@media (min-width: 1000px) {
+    .bars{
+        width: 50%;
+        margin: auto;
+        border: none;
+    }
+    .flexit{
+        width: 100%;
+        height: 80px;
+    }
+    
+} */
+/* .equal{
+    width: 100%;
+    margin: auto;
+}
+.equal h5{
+    width: 50%;
+    border: solid black 2px;
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+@media (min-width: 900px) {
+    .equal{
+        width: 50%;
+        margin: auto;
+    }
+} */
+.foot{
+    background-color: black;
+    position: absolute;
+    width: 100%;
+    height: fit-content;
+    padding: 10px; 
+}
+.notes{
+     padding: 15px;
+     padding-left: 10px;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.hidden{
+    display: none;
+    font-weight: 700;
+
+}
+@media(max-width: 300px){
+    .ll b{
+        display: none;
+    }
+    .hidden{
+        display: contents;
+        width: 100%;
+        font-size: 21px;
+    }
+    .equal h5{
+        font-size: 10px;
+    }
+}
+/* .contacting{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+} */
+/* .imgshape{
+    width: 40px;
+} */
+/* .mybody{
+    background: url('../images/lasu1.jpg');
+    background-size: cover;
+    height: fit-content;
+} */
+/* .visit{
+    font-size: 25px;
+    font-weight: bold;
+    color: blue;
+
+} */
+/* .home-page{
+    color:red;
+    font-style: italic;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 40px;
+    text-transform: uppercase;
+    font-weight: 700;
+
+} */
+/* .textarea{
+    background-color: transparent;
+    background-image: linear-gradient(white, transparent, white);
+    font-size: 20px;
+    font-weight: 800;
+    border: 4px black solid;
+    width: 50%;
+} */
+/* .toflex{
+    display: flex;
+}
+.vsi{
+    background-color: black;
+    padding: 80px 0px;
+} */
+::placeholder{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.falc{
+    font-size: small;
+    color: blue;
+    text-align: center;
+}
+
+/* @media (max-width: 300px){
+    .imgshape{
+        width: 27px;
+    }
+} */
+.background-im{
+    background: url('../asd.png');
+    font-size: 18px;
+    padding: 40px 1px;
+
+} 
+.whatwedo li{
+    font-size: 15px;
+}
+.logo{
+    width: auto;
+    height: 6vw;
+}
+.middle{
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+.contacted{
+    background-color: white;
+    color: black;
+}
+.linkedit{
+    color: black;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+}
+@media(max-width: 280px){
+    .linkedit{
+        font-size: 4vw;
+    }
+}
+.infow{
+    margin-top: 30px;
+}
+.generated{
+    /* border: black 3px solid; */
+    font-size: 1.5vw;
+    /* width: 100%; */
+    margin-bottom: 20px;
+}
+.generated tr td{
+    border: black 1px solid;
+    text-align: center;
+    padding: 0px 1vw;
+    width: 5%;
+}
+td{
+    font-size: 1.6vw;
+}
+.full{
+    background-color: rgb(165, 201, 165);
+}
+@media (max-width: 380px){
+    .thistablebio tr h4{
+        font-size: 10px;
+    } 
+}
+.forms{
+    text-align: right;
+    padding-right: 3vw;
+    margin-bottom: 1vw;
+    color: rgb(93, 76, 109);
+}
+.forms label{
+    font-weight: 800;
+}
+.forms input{
+    border: 3px solid rgb(93, 76, 109);
+    width: 30vw;
+}
+.forms input[type = 'radio']{
+    width: 3vw;
+
+}
+.on-right{
+    text-align: right;
+    padding-right: 3vw;
+}
+.applyheader{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding: 7vw;
+    text-decoration: underline;
+}
+.logo{
+    background-color: white;
+}
+select{
+    width: 30vw;
+    color: white;
+    border: 0px;
+    text-align: center;
+    background-color: black;
+    margin-bottom: 11px;
+}
+
+.forms2 select{
+    width: 16vw;
+}
+.forms2 input{
+    width: 13vw;
+}
+td{
+    height: 50px;
+}
+.generated td:first-child{
+    background-color: gold;
+}
+.gotoapply, .gotoapply a{
+    text-align: right;
+    padding-right: 10px;
+    text-decoration: none;
+    color: red;
+}
+.gotoapply a:hover{
+    color: gold;
+}

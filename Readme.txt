@@ -1,5 +1,6 @@
 	PRACTICAL APPLICATION OF DATA AND INFORMATION PRESENTATION SKILLS
 
+https://sanni1244.github.io/siwes-project-frontend/
 
 Purpose of this project is to create a web application where we can communicate 
 with the database, records can be created (where Name, matric number 

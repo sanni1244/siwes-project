@@ -1,7 +1,3 @@
-Name: Sanni Opeyemi
-Department: Computer Science
-Matric Number: 180591052
-Course: CSC 392
 	PRACTICAL APPLICATION OF DATA AND INFORMATION PRESENTATION SKILLS
 
 
